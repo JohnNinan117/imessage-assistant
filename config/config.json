@@ -1,0 +1,6 @@
+{
+  "self_handle": "+19057836833",
+  "db_path": "/Users/johnninan/Library/Messages/chat.db",
+  "model": "gpt-4o-mini",
+  "trigger_prefix": "gpt:"
+}
