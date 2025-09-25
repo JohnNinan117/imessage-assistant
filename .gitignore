@@ -11,3 +11,8 @@ logs/
 *.log
 
 .env
+config/config.json
+
+# local data
+data/
+config/config.json
